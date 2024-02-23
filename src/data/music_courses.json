@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+          "id": 1,
+          "title": "Guitar Basics: Learn to Play Guitar",
+          "slug": "guitar-basics",
+          "description": "Master the fundamentals of playing the guitar with this comprehensive course.",
+          "price": 59.99,
+          "instructor": "Alex Johnson",
+          "isFeatured": true
+        },
+        {
+          "id": 2,
+          "title": "Piano for Beginners",
+          "slug": "piano-for-beginners",
+          "description": "Start your musical journey by learning how to play the piano from scratch.",
+          "price": 49.99,
+          "instructor": "Emily Davis",
+          "isFeatured": false
+        },
+        {
+          "id": 3,
+          "title": "Music Theory Essentials",
+          "slug": "music-theory",
+          "description": "Gain a solid understanding of music theory to improve your musical skills.",
+          "price": 69.99,
+          "instructor": "Michael Smith",
+          "isFeatured": true
+        },
+        {
+          "id": 4,
+          "title": "Singing Techniques and Vocal Training",
+          "slug": "singing-techniques",
+          "description": "Develop your voice and enhance your singing abilities with expert vocal training.",
+          "price": 79.99,
+          "instructor": "Sophia Garcia",
+          "isFeatured": false
+        },
+        {
+          "id": 5,
+          "title": "Music Production Masterclass",
+          "slug": "music-production-masterclass",
+          "description": "Learn the art of music production and create your own tracks like a pro.",
+          "price": 99.99,
+          "instructor": "David Lee",
+          "isFeatured": true
+        },
+        {
+            "id": 6,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Unlock your creativity and learn the art of songwriting from experienced musicians.",
+            "price": 79.99,
+            "instructor": "Sarah Johnson",
+            "isFeatured": false
+          },
+          {
+            "id": 7,
+            "title": "Music History: From Classical to Contemporary",
+            "slug": "music-history",
+            "description": "Explore the rich history of music from classical compositions to modern hits.",
+            "price": 49.99,
+            "instructor": "James Wilson",
+            "isFeatured": true
+          },
+          {
+            "id": 8,
+            "title": "Jazz Improvisation Techniques",
+            "slug": "jazz-improvisation",
+            "description": "Learn the fundamentals of jazz improvisation and enhance your musical expression.",
+            "price": 69.99,
+            "instructor": "Emily Parker",
+            "isFeatured": false
+          },
+          {
+            "id": 9,
+            "title": "Music Marketing and Promotion",
+            "slug": "music-marketing",
+            "description": "Discover effective strategies for marketing and promoting your music in the digital age.",
+            "price": 89.99,
+            "instructor": "Daniel Brown",
+            "isFeatured": true
+          },
+          {
+            "id": 10,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Learn to produce electronic music using software and hardware tools.",
+            "price": 99.99,
+            "instructor": "Sophie Miller",
+            "isFeatured": false
+          }
+      ]      
+}
